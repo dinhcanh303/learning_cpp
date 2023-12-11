@@ -96,5 +96,6 @@
         "numeric": "cpp",
         "random": "cpp",
         "ranges": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
